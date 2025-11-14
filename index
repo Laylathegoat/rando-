@@ -1,0 +1,65 @@
+<html>
+<head>
+    <title>Layla's Style Guide</title>
+     <link rel="stylesheet" href="index.css">
+      <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700&display=swap" rel="stylesheet">
+      <link href="https://fonts.googleapis.com/css?family=Poppins:400,500,700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1> My Website Style Guide</h1>
+<div class="container">
+<h2>Colors</h2>
+<div class="color-container">
+<div class="color-panel cadet-blue">
+<p class="color-label">Cadet Blue</p>
+<p class="color-hex">#5F9EA0</p>
+</div>
+<div class="color-panel fire-brick ">
+<p class="color-label">Fire Brick</p>
+<p class="color-hex">#b22222</p>
+</div>
+<div class="color-panel dark-magenta  ">
+<p class="color-label">Dark Magenta</p>
+<p class="color-hex">#8B008B</p>
+</div>
+<div class="color-panel gold ">
+<p class="color-label"> Gold</p>
+<p class="color-hex">#FFD700</p>
+</div>
+<div class="color-panel dark-green ">
+<p class="color-label">Dark Green</p>
+<p class="color-hex">#006400</p>
+</div>
+<div class="color-panel midnight-blue">
+<p class="color-label">Midnight Blue</p>
+<p class="color-hex">#191970</p>
+</div>
+</div>
+</div>
+<div class="container">
+<h2>Fonts</h2>
+<div class="font-container">
+<div class="font-panel">
+<p class="font-label source-code-pro">Source Code Pro</p>
+<p class="regular source-code-pro">The quick brown fox jumps over the lazy dog.</p>
+<p class="bold source-code-pro">The quick brown fox jumps over the lazy dog.</p>
+<p class="italic source-code-pro">The quick brown fox jumps over the lazy dog.</p>
+</div>
+<div class="font-panel">
+<p class="font-label nunito-sans">Nunito Sans</p>
+<p class="regular nunito-sans">The quick brown fox jumps over the lazy dog.</p>
+<p class="bold nunito-sans">The quick brown fox jumps over the lazy dog.</p>
+<p class="italic nunito-sans">The quick brown fox jumps over the lazy dog.</p>
+</div>
+<div class="font-panel">
+<p class="font-label poppins">Poppins</p>
+<p class="regular poppins">The quick brown fox jumps over the lazy dog.</p>
+<p class="bold poppins">The quick brown fox jumps over the lazy dog.</p>
+<p class="italic poppins">The quick brown fox jumps over the lazy dog.</p>
+</div>
+</div>
+</div>
+
+</body>
+</html>
