@@ -4,7 +4,7 @@ header {
     width: 100%;
     border-bottom: solid 1px #c6c1c1;
     background-color: white;
-    height: 85px;
+    height: 75px;
 
 }
 header .logo {
@@ -32,6 +32,18 @@ nav{
     text-align:right;
     
 }
-nav li {
+ header nav li {
     padding-left: 3.5rem;
+    display: inline-block;
+    margin: 0 10px;
+}
+#sign-up-section {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 43.5rem;
+    background-image: url(https://static-assets.codecademy.com/Paths/full-stack-career-journey/Fotomatic/final/resources/images/banner-landingpage.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
